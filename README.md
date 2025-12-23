@@ -22,19 +22,18 @@
 
 **CIRCUIT DIAGRAM:**
 
-![EXP 2 DAIGRAM](https://github.com/user-attachments/assets/b837f416-d899-451d-812a-61c93fc64fcb)
+![exp 2 dai](https://github.com/user-attachments/assets/7c825c06-048b-43cc-a4c4-5ba86cd15029)
 
 **TABULAR COLUMN:**
 
-![EXP TABULAR COLUMN](https://github.com/user-attachments/assets/3704d9a6-947f-4741-93c2-a2ae792c9185)
+![exp 2 tab](https://github.com/user-attachments/assets/f3370d93-8c68-45b8-a0b2-ee580af0a5d6)
+
 
 **CALCULATION:**
 
 ![EXP 2 CALCULATION](https://github.com/user-attachments/assets/a3438b81-6c0a-44de-9915-80ba1bac7da9)
 
-![EXP 2 CAL 2](https://github.com/user-attachments/assets/5c014314-5b05-453b-861e-d47a53051a39)
-
-
+![exp2 cal](https://github.com/user-attachments/assets/224d289a-1e61-4ed4-b591-9799c142678a)
 
 
 
@@ -52,10 +51,8 @@
 
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
 
-   ![EXP 2 MARK](https://github.com/user-attachments/assets/66e7a80a-13e2-49d2-8d7e-051ba24e9a40)
+   ![2 ms](https://github.com/user-attachments/assets/b7953359-2137-4427-8998-03e7651d25a9)
 
-
-   **RESULT:**
 
 Thus, the Mesh analysis is verified practically and theoretically. The resultant currents for 	/	V supply are:
 
